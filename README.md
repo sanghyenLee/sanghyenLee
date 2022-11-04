@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="HTML" src ="https://img.shields.io/badge/E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyenLee&show_icons=true&theme=radical)
